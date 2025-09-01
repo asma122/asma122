@@ -2,14 +2,12 @@
 <h3 align="center">Fullstack developer with a Master's in Artificial Intelligence and Data Science. Passionate about building smart, innovative, and impactful tech solutions.</h3>
 
 - 🌱 I’m currently learning **DEVOPS,Multi-Tenant Systems,MLOPS**
-
+<!-- - 👨‍💻 All of my projects are available at []() -->
 - 👯 I’m looking to collaborate on **AI and Data Science projects**
-
-- 💬 Ask me about **Data**
-
+- 💬 Ask me about **Data*
 - 📫 How to reach me **asma.benzaied@ensi-uma.tn**
-
 - ⚡ Fun fact **I am Funny**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/asma-ben-zaied-89a593271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asma benzaied" height="30" width="40" /></a>
