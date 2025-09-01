@@ -21,3 +21,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asma122&show_icons=true&locale=en" alt="asma122" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asma122&" alt="asma122" /></p>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
