@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Asma BenZaied</h1>
-<h3 align="center">Fullstack developer with a Master's in Artificial Intelligence and Data Science. Passionate about building smart, innovative, and impactful tech solutions.</h3>
+<h3 align="center">Fullstack developer with a Research Master's in Artificial Intelligence & Data Science. Passionate about building smart, innovative, and impactful tech solutions.</h3>
 
-- 🌱 I’m currently learning **DEVOPS,Multi-Tenant Systems,MLOPS** <!-- - 👨‍💻 All of my projects are available at []() -->
+- 🌱 I am currently learning **DevOps, multi‑tenant systems, multi‑agent solutions, and MLOps.**<!-- - 👨‍💻 All of my projects are available at []() -->
 - 👯 I’m looking to collaborate on **AI and Data Science projects**
-- 💬 Ask me about **Data**
+- 💬 Ask me about **Data , AI (models, LLMs, tools)**
 - 📫 How to reach me **asma.benzaied@ensi-uma.tn**
 - ⚡ Fun fact **I am Funny**
   
