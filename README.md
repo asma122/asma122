@@ -3,7 +3,7 @@
 
 - 🌱 I am currently learning **DevOps, multi‑tenant systems, multi‑agent solutions, and MLOps.**<!-- - 👨‍💻 All of my projects are available at []() -->
 - 👯 I’m looking to collaborate on **AI and Data Science projects**
-- 💬 Ask me about **Data , AI (models, LLMs, tools)**
+- 💬 Ask me about **Data , GenAI & AI(models, LLMs, tools)**
 - 📫 How to reach me **asma.benzaied@ensi-uma.tn**
 - ⚡ Fun fact **I am Funny**
   
