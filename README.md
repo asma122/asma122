@@ -1,11 +1,10 @@
-![Banner Image](genai.jpg)
-<h1 align="center">Hi 👋, I'm Asma Ben Zaied</h1>
-<h3 align="center">AI & Data Science Researcher | Generative AI Specialist | Full-Stack Developer from Tunisia 🇹🇳</h3>
 <p align="center">
   <a href="https://rishavchanda.io">
     <img src="https://github.com/asma122/asma122/blob/main/programmer.gif" alt="Header Image">
   </a>
 </p>
+<h1 align="center">Hi 👋, I'm Asma Ben Zaied</h1>
+<h3 align="center">AI & Data Science Researcher | Generative AI Specialist | Full-Stack Developer from Tunisia 🇹🇳</h3>
 
 - 🌱 I am currently learning **DevOps,cloud ,and MLOps.**<!-- - 👨‍💻 All of my projects are available at []() -->
 
