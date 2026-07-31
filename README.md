@@ -13,9 +13,9 @@
   
 - 💬 Ask me about **Data , GenAI & AI **
   
-- 📍  See my Tech Contributions on [Linkedin] (https://www.linkedin.com/in/asmabenzaied122/)
+- 📍  See my Tech Contributions on [Linkedin](https://www.linkedin.com/in/asmabenzaied122/)
   
-- 👨‍💻 All of my projects are available on [my github] (https://github.com/asma122)
+- 👨‍💻 All of my projects are available on [my github](https://github.com/asma122)
   
 - 📫 How to reach me **asma.benzaied@ensi-uma.tn**
   
