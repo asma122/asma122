@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Asma BenZaied</h1>
+![Banner Image](genai.jpg)
+<h1 align="center">Hi 👋, I'm Asma Ben Zaied</h1>
 <h3 align="center">Fullstack developer with a Research Master's in Artificial Intelligence & Data Science. Passionate about building smart, innovative, and impactful tech solutions.</h3>
 
 - 🌱 I am currently learning **DevOps, multi‑tenant systems, multi‑agent solutions, and MLOps.**<!-- - 👨‍💻 All of my projects are available at []() -->
