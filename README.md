@@ -6,13 +6,21 @@
     <img src="https://github.com/asma122/asma122/blob/main/programmer.gif" alt="Header Image">
   </a>
 </p>
+
 - 🌱 I am currently learning **DevOps,cloud ,and MLOps.**<!-- - 👨‍💻 All of my projects are available at []() -->
+
 - 👯 I’m looking to collaborate on **AI and Data Science projects**
+  
 - 💬 Ask me about **Data , GenAI & AI **
+  
 - 📍  See my Tech Contributions on [Linkedin] (https://www.linkedin.com/in/asmabenzaied122/)
+  
 - 👨‍💻 All of my projects are available on [my github] (https://github.com/asma122)
+  
 - 📫 How to reach me **asma.benzaied@ensi-uma.tn**
+  
 - ⚡ Fun fact **I am Funny**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/asma-ben-zaied-89a593271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asma benzaied" height="30" width="40" /></a>
